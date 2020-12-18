@@ -1,0 +1,18 @@
+h1{
+color: purple;
+border-color: #f7f67e;
+border-top-style: dashed;
+border-right-style: groove;
+}
+body{
+  background-color: lightblue;
+}
+p{
+  color: #b661e4;
+  font: 17px arial;
+}
+h3:hover{
+  color: royalblue;
+  font-size:200%;
+  background-color: #f7f67e;
+}
